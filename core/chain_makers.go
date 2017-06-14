@@ -33,8 +33,8 @@ import (
 
 // So we can deterministically seed different blockchains
 var (
-	canonicalSeed = 1
-	forkSeed      = 2
+	canonicalSeed = 3
+	forkSeed      = 4
 )
 
 // BlockGen creates blocks for testing.
