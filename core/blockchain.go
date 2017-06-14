@@ -59,7 +59,7 @@ const (
 	badBlockLimit       = 10
 
 	// BlockChainVersion ensures that an incompatible database forces a resync from scratch.
-	BlockChainVersion = 3
+	BlockChainVersion = 1
 )
 
 // BlockChain represents the canonical chain given a database with a genesis
